@@ -1,0 +1,18 @@
+{
+  "name": "js_basics",
+  "version": "1.0.0",
+  "description": "This is a class work for MCSD51",
+  "main": "server.js",
+  "scripts": {
+    "test": "(https://github.com/fvalderiago/WebClass2.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/fvalderiago/WebClass2.git)"
+  },
+  "author": "Frances",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
